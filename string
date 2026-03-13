@@ -1,0 +1,14 @@
+import java.util.*;
+public class Variable
+{
+    public static void main(String args[])
+{
+    int x;
+    String y;
+    Scanner sc=new Scanner(System.in);
+    x=sc.nextInt();
+    y=sc.next();
+    System.out.println(x);
+    System.out.println(y);
+    }
+}
